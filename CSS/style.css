@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+h1{
+    background-color: green ;
+    text-align: center;
+    width: 100vw;
+     
+    
+}
+h2{
+    text-align: center;
+    padding: 10px;
+}
+p{
+    
+    font-size:    20px;
+}
+nav{
+    text-align: center;
+    padding: 1em;
+    border-radius: 15px;
+   
+}
+a{
+    margin: 150px;
+    color:white ;
+    border-radius: 15px;
+    
+
+}
+.container{
+    background-color: green;
+    
+}
+body{
+    background-color:silver;
+    float: left ;
+    
+}
+.principal{
+  background-color: white;
+  border-radius: 15px;
+
+
+}
